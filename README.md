@@ -1,4 +1,5 @@
-# 🛡️ AI Employee Detection System (Gadaar Engine)
+# 🛡️ AI-Insider-Threat-Detection-System
+
 
 An advanced, hybrid Machine Learning and Natural Language Processing (NLP) system designed to detect insider threats and anomalies in employee activity logs and communication patterns. The system features a futuristic Security Operations Center (SOC) dashboard.
 
